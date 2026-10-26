@@ -71,16 +71,5 @@
 | **[Live-Website](https://github.com/SahuPapun/Live-Website)** | JavaScript | Live-previews HTML/CSS/JS code as you write it |
 | **[OpenCV-Tracker](https://github.com/SahuPapun/OpenCV-Tracker)** | Python | Object tracking with OpenCV |
 
-## ⟡ Learning & Sandbox
-
-- **[Learning-React](https://github.com/SahuPapun/Learning-React)** — React fundamentals
-- **[Grade-Insight-Project](https://github.com/SahuPapun/Grade-Insight-Project)** — CGPA prediction & student counselling (Jupyter Notebook)
-- **[local-Repo](https://github.com/SahuPapun/local-Repo)** · **[mydemo](https://github.com/SahuPapun/mydemo)** — Git/GitHub practice repos
-
----
-
-<div align="center">
-
-**"From register-level firmware to RAG pipelines — I build the whole stack."** ⚡
 
 </div>
