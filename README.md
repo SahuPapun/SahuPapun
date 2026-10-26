@@ -31,18 +31,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SahuPapun&theme=transparent&hide_border=true&background=0a0014&ring=00F5FF&fire=b026ff&currStreakLabel=00F5FF" />
 </p>
 
-## ⟡ 3D Contribution Calendar
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/SahuPapun/SahuPapun/main/profile-3d-contrib/profile-night-rainbow.svg" width="95%" />
-</p>
-
-## ⟡ Live Contribution Graph
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/SahuPapun/SahuPapun/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" width="95%" />
-<img src="https://raw.githubusercontent.com/SahuPapun/SahuPapun/output/github-contribution-grid-snake.svg#gh-light-mode-only" width="95%" />
-</p>
 
 ---
 
